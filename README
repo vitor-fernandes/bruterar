@@ -1,0 +1,35 @@
+_____            ___     ______           ______          
+|  _ \           | |     |  __ \     /\   |  __ \  
+| |_) |_ __ _   _| |_ ___| |__) |   /  \  | |__) | 
+|  _ <| '__| | | | __/ _ \  _  /   / /\ \ |  _  /  
+| |_) | |  | |_| | ||  __/ | \ \  / ____ \| | \ \  
+|____/|_|   \__,_|\__\___|_|  \_\/_/    \_\_|  \_\ 
+
+Bem vindo ao BruteRar Versão 1.0 !!!
+Script Brute Force para arquivos .rar
+Desenvolvido por: Vitor Fernandes
+
+Opções:
+        -h para visualizar essa mensagem
+        -f [arquivo.rar] para especificar o arquivo compactado
+        -w [wordlist] para especificar a wordlist
+        -v para visualizar a versão do script
+
+Exemplo
+        python bruterar.py -f arquivo.rar -w wordlist
+
+QUEBRANDO O ARQUIVO [teste.rar]
+
+[+] Falha ==> Password: 2354y3
+[+] Falha ==> Password: sdfgr
+[+] Falha ==> Password: w3463
+[+] Falha ==> Password: abcde
+[+] Falha ==> Password: erjdfg
+[+] Falha ==> Password: 54676865432ws1234
+[+] Falha ==> Password: ´erwwrfcwe
+[+] Falha ==> Password: h7668345
+[+] Falha ==> Password: 4686ifjdh35t
+[+] Falha ==> Password: é1344bcçç13
+[+] Falha ==> Password: 5550
+[+] Sucesso ==> Password: bruterar
+
