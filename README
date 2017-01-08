@@ -20,7 +20,8 @@ Exemplo
 
 ***** TESTE *****
 
-python bruterar.py -f teste.rar -w wordlist
+┌──[vitor@localhost]─[~]
+└──╼ $ python bruterar.py -f teste.rar -w wordlist
 
 QUEBRANDO O ARQUIVO [teste.rar]
 
