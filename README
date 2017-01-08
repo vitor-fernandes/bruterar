@@ -18,6 +18,10 @@ Opções:
 Exemplo
         python bruterar.py -f arquivo.rar -w wordlist
 
+***** TESTE *****
+
+python bruterar.py -f teste.rar -w wordlist
+
 QUEBRANDO O ARQUIVO [teste.rar]
 
 [+] Falha ==> Password: 2354y3
